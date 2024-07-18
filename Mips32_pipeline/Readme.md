@@ -37,5 +37,4 @@ Generates a two-phase clock signal (`clk1` and `clk2`) with a period of 10ns for
 To use the Verilog modules, include them in your project and instantiate them in your top-level design.
 
 ## License
-
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
