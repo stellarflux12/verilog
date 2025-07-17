@@ -1,8 +1,9 @@
-# Design of 5-stage Pipelined MIPS32 RISC Processor
-
+# Design of 5-stage Pipelined MIPS32 RISC Processor 
+## Verified for Fibonacci series
 ## Pipelined Datapath
 ![image](https://github.com/user-attachments/assets/6bcc50d2-b16f-4025-8f28-02a7c1447673)
 
+## Tools : Xilinx Vivado
 ## Stages of the Pipeline
 
 1. **Instruction Fetch (IF)**: The instruction is fetched from memory.
